@@ -1,19 +1,35 @@
 * {
-    color: white;
-    background-color: black;
-    font-size: 50px;
+    background-color: beige;
+    text-align: center;
+    /* outline: dashed red; */
+    font-size: 20px;
+    font-family: Courier, sans-serif;
 }
 
-body {
-    text-align: center;
+p {
+    display: inline;
+    font-size: 25px;
 }
 
 h1 {
-    margin-top: 10%;
-    margin-left: 30%;
-    margin-right: 30%;
+    font-size: 100px;
+    width: 20%;
+    margin-left: 6%;
+    font-family: Courier New, sans-serif;
 }
 
+ h2 {
+    font-size: 30px;
+ }
+
 img {
-    width: 250px;
+    width: 400px;
+    border-radius: 400px;
+    background: transparent;
+    margin-left: 5%;
+    box-shadow: 5px 5px 10px;
+}
+
+.list {
+    width: 50%;
 }
