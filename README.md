@@ -1,2 +1,2 @@
 # about-me
-About Me project for Code 201
+observer/nav. Daniel S. and sean 
